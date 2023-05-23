@@ -1,10 +1,10 @@
 # 3d-portfolio
 
-![](hello.jpg) <br />
-![](about.jpg) <br />
-![](experienceFirst.jpg) <br />
-![](experienceSecond.jpg) <br />
-![](projects.jpg) <br />
+![](hello.png) <br />
+![](about.png) <br />
+![](experienceFirst.png) <br />
+![](experienceSecond.png) <br />
+![](projects.png) <br />
 
 
 Credits: https://youtu.be/0fYi8SGA20k
